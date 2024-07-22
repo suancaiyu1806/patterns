@@ -1,6 +1,6 @@
 ### TODO LIST
 
-> todo <big>donging</big> ~~done~~
+> todo `donging` ~~done~~
 
 #### 通用设计模式
 
@@ -22,7 +22,7 @@
     - 策略模式(Strategy Pattern)
     - 状态模式(State Pattern)
     - 观察者模式(Observer Pattern)
-    - <big>命令模式(Command Pattern)</big>
+    - `命令模式(Command Pattern)`
     - 迭代器模式(Iterator Pattern)
     - 中介者模式(Mediator Pattern)
     - 备忘录模式(Memento Pattern)
@@ -33,7 +33,7 @@
 #### JS 
 
 - Design Patterns
-    - <big>Command Pattern</big>
+    - `Command Pattern`
     - Factory Pattern
     - Flyweight Pattern
     - Mediator/Middleware Pattern
